@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sinan Fen.
 - 👀 I’m interested in ASP.NET Core, ASP.NET Core MVC, Angular, Java, Spring Framework, ...
 - 🌱 I’m currently developing myself in ASP.NET Core, Angular
-- 📫 How to reach me: [https://www.linkedin.com/in/sinan-fen-34030a195/](https://www.linkedin.com/in/sinanfen/)
+- 📫 How to reach me: https://www.linkedin.com/in/sinanfen/
 
 <!---
 sinanfen/sinanfen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
