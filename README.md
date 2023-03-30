@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sinan Fen.
-- 👀 I’m interested in ASP.NET Core, .NET Core MVC, Entity Framework, Angular, Java, Spring Framework, ...
-- 🌱 I’m currently developing myself in .NET Core, Angular
+- 👀 I’m interested in ASP.NET Core, .NET Core MVC, Entity Framework, Angular, Java, Spring, ...
+- 🌱 I’m currently developing myself in .NET Core
 - 📫 How to reach me: sinanfen@hotmail.com
 - 👨‍💻 Visit my website: https://sinanfen.com.tr/
 <!---
