@@ -11,6 +11,9 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me: sinanfen@hotmail.com
 - 👨‍💻 Visit my website: https://sinanfen.com.tr/
 
+---
+[![](https://visitcount.itsvg.in/api?id=sinanfen&icon=0&color=11)](https://visitcount.itsvg.in)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sinanfen) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sinanfen) 
 
@@ -24,7 +27,6 @@ You can click the Preview link to take a look at your changes.
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sinanfen&theme=dark_dimmed&no-frame=true&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=sinanfen&icon=0&color=11)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
