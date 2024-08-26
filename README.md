@@ -6,7 +6,8 @@ You can click the Preview link to take a look at your changes.
 --->
 ##
 - 👋 Hi, I’m Sinan Fen.
-- 👀 I’m interested in ASP.NET Core, ASP.NET Core MVC, .NET Core, Entity Framework Core, Java, Spring, Angular, React...
+- 💻 Fullstack Software Developer.
+- 👀 I’m interested in ASP.NET Core, ASP.NET Core MVC, .NET Core, Entity Framework Core, Blazor, Angular, React...
 - 🌱 I’m currently improving myself in .NET Core
 - 📫 How to reach me: sinanfen@hotmail.com
 - 👨‍💻 Visit my website: https://sinanfen.com.tr/
