@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 - 👋 Hi, I’m Sinan Fen.
 - 💻 Fullstack Software Developer.
 - 👀 I’m interested in ASP.NET Core, Blazor, Angular
-- 🌱 I’m currently improving myself in Angular & ASP.NET Core
+- 🌱 I’m currently improving myself in ASP.NET Core & Vue ~ React
 - 📫 How to reach me: sinanfen@hotmail.com
 - 👨‍💻 Visit my website: https://sinanfen.me/
 
