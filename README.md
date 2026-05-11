@@ -1,18 +1,19 @@
+# Hi there 👋 I'm Sinan Fen
 
-<!---
+Full Stack Software Developer focused primarily on the .NET ecosystem and modern web technologies.
 
-sinanfen/sinanfen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-##
-- 👋 Hi, I’m Sinan Fen.
-- 💻 Fullstack Software Developer.
-- 👀 I’m interested in ASP.NET Core, Vue.JS, React, Blazor
-- 🌱 I’m currently improving myself in ASP.NET Core & Vue ~ React
-- 📫 How to reach me: sinanfen@hotmail.com
-- 👨‍💻 Visit my website: https://sinanfen.me/
+I specialize in building scalable and maintainable web applications using .NET, Vue.js, Next.js, React, and Blazor.  
+Although I work across the full stack, my main expertise is backend architecture and system design.
+
+I have experience developing ERP, SaaS, and enterprise solutions, and I also build cross-platform mobile applications with Flutter.
+
+Currently, I’m part of a 3-person software team creating modern digital products and custom software solutions.
+
+🌐 Portfolio: https://cnonestudio.com/tr  
+👨‍💻 Personal Website: https://sinanfen.me  
+📫 Contact: sinanfen@hotmail.com  
+💼 LinkedIn: https://linkedin.com/in/sinanfen
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sinanfen&icon=0&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=sinanfen&icon=0&color=11)](https://visitcount.itsvg.in)
