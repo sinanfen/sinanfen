@@ -2,7 +2,7 @@
 
 Full Stack Software Developer focused primarily on the .NET ecosystem and modern web technologies.
 
-I specialize in building scalable and maintainable web applications using .NET, Vue.js, Next.js, React, and Blazor.  
+I specialize in building scalable and maintainable web applications using ASP.NET Core, Vue.js, Next.js, React, and Blazor.  
 Although I work across the full stack, my main expertise is backend architecture and system design.
 
 I have experience developing ERP, SaaS, and enterprise solutions, and I also build cross-platform mobile applications with Flutter.
