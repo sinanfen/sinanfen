@@ -1,18 +1,16 @@
 # Hi there 👋 I'm Sinan Fen
 
-Full Stack Software Developer focused primarily on the .NET ecosystem and modern web technologies.
+Full Stack Software Developer with nearly 3 years of professional experience in enterprise software development.
 
-I specialize in building scalable and maintainable web applications using ASP.NET Core, Vue.js, Next.js, React, and Blazor.  
-Although I work across the full stack, my main expertise is backend architecture and system design.
+I mainly work with the .NET ecosystem and build scalable web applications using ASP.NET Core, Vue.js, Next.js, React, and Blazor.  
+While I develop end-to-end solutions, my primary focus is backend architecture, system design, and performance-oriented development.
 
-I have experience developing ERP, SaaS, and enterprise solutions, and I also build cross-platform mobile applications with Flutter.
-
-Currently, I’m part of a 3-person software team creating modern digital products and custom software solutions.
+Alongside my professional career, I’m also part of a 3-person indie development team where we build full stack mobile and web applications as side projects using modern technologies including Flutter.
 
 🌐 Portfolio: https://cnonestudio.com/tr  
 👨‍💻 Personal Website: https://sinanfen.me  
-📫 Contact: sinanfen@hotmail.com  
-💼 LinkedIn: https://linkedin.com/in/sinanfen
+💼 LinkedIn: https://linkedin.com/in/sinanfen  
+📫 Contact: sinanfen@hotmail.com
 
 ---
 
