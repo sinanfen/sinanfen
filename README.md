@@ -8,7 +8,7 @@ While I develop end-to-end solutions, my primary focus is backend architecture, 
 Alongside my professional career, I’m also part of a 3-person indie development team where we build full stack mobile and web applications as side projects using modern technologies including Flutter.
 
 🌐 Portfolio: https://cnonestudio.com/tr  
-👨‍💻 Our Team's Website: https://cnonestudio.com/en
+👨‍💻 Our Team's Website: https://cnonestudio.com/en 
 💼 LinkedIn: https://linkedin.com/in/sinanfen  
 📫 Contact: sinanfen@hotmail.com
 
